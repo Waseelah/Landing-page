@@ -1,0 +1,172 @@
+.services {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.services-section {
+    background-color: #28223e;
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.services-header {
+    display: flex;
+    align-items: baseline;
+    color: #ffffff;
+}
+
+.services-header h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.services-header p {
+    font-size: 24px;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.arrow {
+    font-size: 24px;
+    display: inline-block;
+}
+
+.services-description {
+    margin: 20px 0;
+    color: #b8b8d4;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Services Cards */
+.services-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #352d4b;
+    padding: 20px;
+    width: 22%;
+    text-align: center;
+    width: 310px;
+    height: 400px;
+    top: 2123px;
+    bottom: 2000px;
+    left: 84px;
+    gap: 20px;
+    border-radius: 40px;
+    opacity: 0px;
+
+}
+
+.card img {
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    width: 190.92px;
+    height: 190.92px;
+    top: 2160.44px;
+    left: 143.64px;
+    gap: 10px;
+    opacity: 0px;
+    box-shadow: 20px #1f1b32;
+
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 14px;
+    color: #b8b8d4;
+    margin-bottom: 20px;
+}
+
+.card-button {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #1f1b32;
+    background-color: rgba(192, 183, 232, 1);
+
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.card-button:hover {
+    color: rgba(192, 183, 232, 1);
+}
+
+/* Technologies & Hardware Section */
+.tech-section {
+    text-align: center;
+    background-color: #28223e;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    justify-content: center;
+
+}
+
+.tech-section h2 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 80px;
+    margin-top: 70px;
+
+
+
+}
+
+.tech-section p {
+    font-size: 18px;
+    color: #b8b8d4;
+}
+
+.tech-logos {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+
+}
+
+.tech-logos img {
+    width: 60px;
+    height: auto;
+    opacity: 36%;
+    transition: opacity 0.3s ease;
+    width: 252px;
+    height: 252px;
+    top: 3111px;
+    left: 418px;
+
+
+
+
+
+}
+
+.tech-logos img:hover {
+    opacity: 1;
+}
+
+.background {
+    background: url(pic/pexels-rodnae-productions-8097332\ 1.jpg);
+    height: 303px;
+    top: 274px;
+    gap: 0px;
+    opacity: 10px;
+    border-radius: 150px;
+
+}

@@ -1,0 +1,184 @@
+
+.container{
+    
+height: 756px;
+top: 1051px;
+left: 84px;
+gap: 0px;
+opacity: 0px;
+
+
+    
+}
+
+
+.introduction h3{
+font-size: 36px;
+font-weight: 700;
+line-height: 43.88px;
+text-align: left;
+width: 298px;
+height: 44px;
+top: 1055px;
+left: 84px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.space{
+
+font-size: 36px;
+font-weight: 100;
+line-height: 43.88px;
+text-align: left;
+width: 251px;
+height: 44px;
+top: 1109px;
+left: 84px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.introduction .p{
+font-size: 16px;
+font-weight: 400;
+line-height: 19.5px;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+display: flex;
+
+}
+
+.content{
+    display: flex;
+    gap: 30px;
+}
+
+
+.about-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #28223e;
+    padding: 40px;
+    border-radius: 10px;
+    position: relative;
+    height: 756px;
+}
+
+/* Introduction Text */
+.intro-text {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #ffffff;
+    display: flex;
+}
+
+.intro-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.intro-text p {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.arrow {
+    font-size: 24px;
+    margin-top: 10px;
+    display: flex;
+    width: 228px;
+height: 100px;
+top: 1081px;
+left: 365px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+/* VR Image */
+.vr-image {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.vr-image img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    width: 524px;
+    height: 557px;
+    top: 1500px;
+    left: 608px;
+    bottom: 500px;
+    gap: 0px;
+    border-radius: 260px 130px 260px 130px;
+    opacity: 0px;
+    rotate: -180 deg;
+    flex: 1;
+    margin-right: 20px;
+}
+
+/* About Content */
+.about-content {
+    flex: 2;
+    color: #b8b8d4;
+}
+
+.about-content h3 {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.about-content h4 {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.about-content p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #1f1b32;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+
+}
+
+
+
+
+
+
+
+
+
+ #pointer{
+    width: 228px;
+height: 100px;
+top: 1081px;
+left: 365px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+ 

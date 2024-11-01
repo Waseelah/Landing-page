@@ -5,12 +5,13 @@
 
 }
 
+
 body {
-    font: montserrat;
     background-color: #1e1e2e;
     color: #ffffff;
     justify-content: center;
-    font-weight: 400;
+
+    font-family: Arial, sans-serif;
 }
 
 header {
@@ -23,12 +24,12 @@ header {
 
 header .logo {
     font-size: 24px;
-    font-weight: bold;
     color: #ffffff;
     width: 76px;
     height: 46px;
     top: 79px;
     left: 201px;
+    margin-right: 350px;
 
 
 
@@ -40,10 +41,23 @@ span {
 }
 
 h1 span {
-    font-family: Montserrat;
+
     font-size: 40px;
     font-weight: 700;
     line-height: 48.76px;
     text-align: left;
+
+}
+
+
+.hydra{
+    width: 101.99px;
+height: 102.93px;
+top: 0px;
+left: 0px;
+gap: 0px;
+opacity: 30%;
+box-shadow: none;
+margin-right: 35px;
 
 }
