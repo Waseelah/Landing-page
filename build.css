@@ -1,0 +1,148 @@
+
+
+.build {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* How We Build Section */
+.how-we-build {
+    background-color: #28223e;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.how-we-build h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.how-we-build p {
+    font-size: 16px;
+    color: #b8b8d4;
+    margin: 10px 0;
+}
+
+.arrow {
+    font-size: 24px;
+}
+
+.description {
+    margin-bottom: 30px;
+}
+
+/* Process Steps */
+.process-steps {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.step {
+    text-align: center;
+    color: #ffffff;
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    background-color: #b8b8d4;
+    color:#3a3a5a;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 10px;
+}
+
+.connector {
+    width: 50px;
+    height: 2px;
+    background-color: #b8b8d4;
+}
+
+/* Join Hydra Section */
+.join-hydra {
+    background-color: #28223e;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.join-hydra h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.join-hydra p {
+    font-size: 16px;
+    color: #b8b8d4;
+    margin-bottom: 30px;
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.form-row {
+    display: flex;
+    gap: 20px;
+}
+.form-sub{
+    display: inline;
+}
+
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #3a3a5a;
+    border-radius: 35px;
+    background-color: #1f1b32;
+    color: #ffffff;
+}
+
+
+input::placeholder {
+    color: #b8b8d4;
+}
+
+button[type="submit"] {
+    padding: 12px;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    width: 214px;
+    height: 48px;
+    top: 589px;
+    border-radius: 40px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    padding: 10px 20px;
+    border: none;
+    color: rgba(52, 48, 69, 1);
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 550px;
+
+
+}
+
+button[type="submit"]:hover {
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+
+}
