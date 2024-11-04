@@ -50,21 +50,21 @@ h1 span {
 }
 
 
-.hydra{
+.hydra {
     width: 101.99px;
-height: 102.93px;
-top: 0px;
-left: 0px;
-gap: 0px;
-opacity: 30%;
-box-shadow: none;
-margin-right: 35px;
+    height: 102.93px;
+    top: 0px;
+    left: 0px;
+    gap: 0px;
+    opacity: 30%;
+    box-shadow: none;
+    margin-right: 35px;
 
 }
 
 
 /* nav styling */
-nav a{
+nav a {
     margin: 0 10px;
     color: #ffffff;
     text-decoration: none;
